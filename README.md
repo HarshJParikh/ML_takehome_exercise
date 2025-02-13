@@ -31,10 +31,18 @@ pip install -r requirements.txt
 ```bash
 docker build -t ml-takehome .
 ```
-####Run the Docker Container
+#### **Run the Docker Container**
 ```bash
 docker run --rm ml-takehome
 ```
 
-###📂 Project Structure
+### **📂 Project Structure**
+📁 ml-takehome-project/
+│── 📄 Dockerfile                      # Docker setup for the project
+│── 📄 requirements.txt                 # Python dependencies
+│── 📄 ml_takehome_exercise.py          # Main script for training & inference
+│── 📄 Unique_Fixed_Sentiment_Analysis_Dataset.csv   # Sentiment dataset
+│── 📄 Unique_Intent_Classification_Dataset.csv      # Intent dataset
+│── 📄 README.md                         # Documentation
+
 
