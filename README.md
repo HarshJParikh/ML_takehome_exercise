@@ -21,7 +21,20 @@ git clone <https://github.com/HarshJParikh/ML_takehome_exercise>
 ```
 
 ### **2️⃣  Install Dependencies (Without Docker)**
-   #### If you are running the project locally (without Docker), install the required dependencies:
+#### If you are running the project locally (without Docker), install the required dependencies:
 ```bash
 pip install -r requirements.txt
 ```
+
+### **🐳 Running with Docker (Recommended)**
+####Build the Docker Image
+```bash
+docker build -t ml-takehome .
+```
+####Run the Docker Container
+```bash
+docker run --rm ml-takehome
+```
+
+###📂 Project Structure
+
