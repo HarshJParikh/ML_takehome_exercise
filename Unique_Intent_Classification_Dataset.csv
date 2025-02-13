@@ -1,0 +1,101 @@
+sentence,label
+What time does the store open?,question
+Where can I find the nearest pharmacy?,question
+How do I reset my password?,question
+Why is the internet so slow today?,question
+Who is the CEO of Tesla?,question
+Where did you buy that jacket?,question
+How does this machine work?,question
+Which train goes to New York?,question
+How many countries have you visited?,question
+Where can I find the user manual?,question
+What do you think about this idea?,question
+When does the next bus arrive?,question
+Who painted the Mona Lisa?,question
+How do you make homemade pasta?,question
+Why do birds fly in formation?,question
+Where did you learn to dance?,question
+How long does it take to bake a cake?,question
+Why do we dream?,question
+How do I connect to WiFi?,question
+Where is the best place to eat sushi?,question
+When is the deadline for the project?,question
+Why is the sky blue?,question
+What makes a rainbow appear?,question
+Where can I buy organic vegetables?,question
+How do I create a new email account?,question
+I love the way this painting looks!,exclamation
+"Wow, that performance was incredible!",exclamation
+This is the best day of my life!,exclamation
+I can't believe we won the championship!,exclamation
+This sunset is absolutely stunning!,exclamation
+That joke was absolutely hilarious!,exclamation
+I'm so happy for you!,exclamation
+This festival is so much fun!,exclamation
+I can't believe how fast this car is!,exclamation
+What an incredible sunset!,exclamation
+This cake is the most delicious thing ever!,exclamation
+That fireworks show was amazing!,exclamation
+This is the most exciting match ever!,exclamation
+I can't believe how lucky I am!,exclamation
+This rollercoaster is insane!,exclamation
+That was the best performance ever!,exclamation
+I can't believe how delicious this is!,exclamation
+This is the softest blanket ever!,exclamation
+What a breathtaking view!,exclamation
+This coffee tastes heavenly!,exclamation
+The colors in this painting are mesmerizing!,exclamation
+What a thrilling adventure!,exclamation
+The energy at the concert was unreal!,exclamation
+This book changed my life!,exclamation
+What a fantastic game!,exclamation
+Turn off the lights.,command
+Please send me the report by noon.,command
+Close the door behind you.,command
+Check the email for further details.,command
+Start the engine now.,command
+Update the software before using the application.,command
+Turn the volume up.,command
+Send the documents by tomorrow.,command
+Restart the computer if it freezes.,command
+Check the status of the shipment.,command
+Return the borrowed books by Friday.,command
+Set a reminder for the meeting.,command
+Wash the dishes after dinner.,command
+Save your work before closing the document.,command
+Refill the water bottle before heading out.,command
+Pick up the package from the post office.,command
+Fold the laundry and put it away.,command
+Book a table for dinner at 7 PM.,command
+Shut the door quietly.,command
+Send me the presentation slides.,command
+Lock the front gate before leaving.,command
+Turn off your phone during the meeting.,command
+Check your email for updates.,command
+Please update the spreadsheet with the latest data.,command
+Print the report and bring it to the meeting.,command
+The sky is so clear today.,statement
+The train arrives at 5 PM.,statement
+The meeting has been rescheduled to Friday.,statement
+She is an expert in data science.,statement
+The coffee machine is out of order.,statement
+The library is open until 8 PM.,statement
+The cat is sleeping on the couch.,statement
+The restaurant serves Italian food.,statement
+The weather forecast predicts rain tomorrow.,statement
+The concert starts at 8 PM.,statement
+The museum is closed on Mondays.,statement
+The river flows through the valley.,statement
+The bakery sells fresh bread daily.,statement
+The dog is barking outside.,statement
+The bookstore has a great selection of novels.,statement
+The bridge connects the two cities.,statement
+The park has a playground for kids.,statement
+The moon shines brightly at night.,statement
+The sun rises in the east.,statement
+The school organizes an annual science fair.,statement
+The city has a beautiful skyline.,statement
+The cruise was an unforgettable experience.,statement
+The event was so well-organized.,statement
+The company was founded in 1995.,statement
+The flight was delayed by two hours.,statement
