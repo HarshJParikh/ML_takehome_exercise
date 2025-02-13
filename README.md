@@ -27,7 +27,7 @@ pip install -r requirements.txt
 ```
 
 ### **3️⃣ 🐳 Running with Docker (Recommended)**
-####Build the Docker Image
+#### **Build the Docker Image**
 ```bash
 docker build -t ml-takehome .
 ```
