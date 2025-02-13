@@ -26,7 +26,7 @@ git clone <https://github.com/HarshJParikh/ML_takehome_exercise>
 pip install -r requirements.txt
 ```
 
-### **🐳 Running with Docker (Recommended)**
+### **3️⃣ 🐳 Running with Docker (Recommended)**
 ####Build the Docker Image
 ```bash
 docker build -t ml-takehome .
