@@ -18,3 +18,10 @@ The model is based on **all-MiniLM-L6-v2** from `sentence-transformers` and is t
 ### **1️⃣ Clone the Repository**
 ```bash
 git clone <https://github.com/HarshJParikh/ML_takehome_exercise>
+```
+
+### **2️⃣  Install Dependencies (Without Docker)**
+#### If you are running the project locally (without Docker), install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
