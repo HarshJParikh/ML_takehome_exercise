@@ -37,6 +37,7 @@ docker run --rm ml-takehome
 ```
 
 ### **📂 Project Structure**
+```bash
 📁 ml-takehome-project/
 │── 📄 Dockerfile                      # Docker setup for the project
 │── 📄 requirements.txt                 # Python dependencies
@@ -44,5 +45,7 @@ docker run --rm ml-takehome
 │── 📄 Unique_Fixed_Sentiment_Analysis_Dataset.csv   # Sentiment dataset
 │── 📄 Unique_Intent_Classification_Dataset.csv      # Intent dataset
 │── 📄 README.md                         # Documentation
+```
+
 
 
