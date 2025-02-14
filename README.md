@@ -7,7 +7,7 @@ This project implements a **multi-task learning (MTL) model** for:
    - **Question**
    - **Statement**
    - **Command**
-   - **Request**
+   - **Exclamation**
 
 The model is based on **all-MiniLM-L6-v2** from `sentence-transformers` and is trained using **synthetic datasets**.
 
