@@ -26,6 +26,10 @@ cd ml-takehome-project
 ```bash
 pip install -r requirements.txt
 ```
+#### **Run locally**
+```bash
+python ml_takehome_exercise.py
+```
 
 ### **3️⃣ 🐳 Running with Docker (Recommended)**
 #### **Build the Docker Image**
