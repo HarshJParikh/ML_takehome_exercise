@@ -21,7 +21,7 @@ git clone https://github.com/HarshJParikh/ML_takehome_exercise
 cd ml_takehome_exercise
 ```
 
-### ** 2️⃣ 🐳 Running with Docker **
+### **2️⃣ 🐳 Running with Docker**
 #### **Build the Docker Image**
 ```bash
 docker build -t ml-takehome .
