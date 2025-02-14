@@ -22,7 +22,7 @@ cd ml_takehome_exercise
 ```
 
 ### **2️⃣  Install Dependencies (Without Docker)**
-#### If you are running the project locally (without Docker), install the required dependencies:
+#### If you are running the project locally (without Docker), install the required dependencies (requires conda installation):
 ```bash
 pip install -r requirements.txt
 ```
