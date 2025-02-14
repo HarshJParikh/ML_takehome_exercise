@@ -51,7 +51,7 @@ class MultiTaskSentenceTransformer(nn.Module):
         self.seed = seed
 
         # Load the pre-trained Sentence Transformer
-        self.transformer = SentenceTransformer(transformer_model)
+        self.transformer = SentenceTransformer(transformer_model).to("cpu")
 
         # Get embedding dimension dynamically
         embedding_dim = self.transformer.get_sentence_embedding_dimension()
