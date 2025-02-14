@@ -1,6 +1,5 @@
-python==3.11.11
-torch==2.0.1
-sentence-transformers==2.2.2
-scikit-learn==1.2.2
-pandas==1.5.3
-numpy==1.23.5
+torch
+sentence-transformers
+scikit-learn
+pandas
+numpy
