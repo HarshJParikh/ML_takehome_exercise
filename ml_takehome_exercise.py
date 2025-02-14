@@ -152,7 +152,7 @@ intent_df = pd.read_csv("Unique_Intent_Classification_Dataset.csv")
 
 
 # Initialize Model
-device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+device = torch.device("cpu")
 multi_task_model.to(device)
 
 
