@@ -40,6 +40,7 @@ docker run --rm ml-takehome
 │── 📄 Unique_Fixed_Sentiment_Analysis_Dataset.csv   # Sentiment dataset
 │── 📄 Unique_Intent_Classification_Dataset.csv      # Intent dataset
 │── 📄 README.md                         # Documentation
+│── 📄 ML_Apprentice_Take_Home_Assignment    # Project Description
 ```
 
 
